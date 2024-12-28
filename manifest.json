@@ -2,9 +2,9 @@
 
   "description": "Make YouTube videos play at highest quality available",
   "manifest_version": 2,
-  "name": "yt_max_quality",
-  "version": "1.0",
-  "homepage_url": "https://www.zachariahcarmichael.com/",
+  "name": "yt_max_quality-nu",
+  "version": "1.0.1",
+  "homepage_url": "https://github.com/nra4ever",
   "icons": {
     "48": "icons/border-48.png"
   },
